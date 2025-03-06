@@ -94,6 +94,3 @@ class MyApp extends StatelessWidget {
 - **Language:** Dart  
 - **Framework:** Flutter  
 - **IDE:** VS Code / Android Studio  
-
-### **Screenshots**  
-📌 _Add screenshots of the app UI here if needed._
